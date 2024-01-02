@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country>
+        <name>Turkey</name>
+        <code>+90</code>
+        <image>turkey</image>
+    </country>
+    <country>
+        <name>United States</name>
+        <code>+1</code>
+        <image>united_states</image>
+    </country>
+    <country>
+        <name>United Kingdom</name>
+        <code>+44</code>
+        <image>united_kingdom</image>
+    </country>
+    <country>
+        <name>Germany</name>
+        <code>+49</code>
+        <image>germany</image>
+    </country>
+    <country>
+        <name>France</name>
+        <code>+33</code>
+        <image>france</image>
+    </country>
+    <country>
+        <name>Canada</name>
+        <code>+1</code>
+        <image>canada</image>
+    </country>
+    <country>
+        <name>Australia</name>
+        <code>+61</code>
+        <image>australia</image>
+    </country>
+    <country>
+        <name>India</name>
+        <code>+91</code>
+        <image>india</image>
+    </country>
+    <country>
+        <name>Japan</name>
+        <code>+81</code>
+        <image>japan</image>
+    </country>
+    <!-- Add more countries as needed -->
+</countries>
